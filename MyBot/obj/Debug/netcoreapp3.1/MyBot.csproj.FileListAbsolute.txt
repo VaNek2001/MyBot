@@ -1,0 +1,17 @@
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.csproj.AssemblyReference.cache
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.AssemblyInfoInputs.cache
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.AssemblyInfo.cs
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.csproj.CoreCompileInputs.cache
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot.deps.json
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot.runtimeconfig.json
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot.runtimeconfig.dev.json
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot.dll
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/MyBot.pdb
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ivan/Projects/MyBot/MyBot/bin/Debug/netcoreapp3.1/Telegram.Bot.dll
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.csproj.CopyComplete
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.dll
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.pdb
+/Users/ivan/Projects/MyBot/MyBot/obj/Debug/netcoreapp3.1/MyBot.genruntimeconfig.cache
